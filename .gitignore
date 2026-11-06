@@ -1,0 +1,15 @@
+# backups made by install.sh or editors
+*.bak
+*.bak.*
+*~
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# never commit secrets
+.env
+*.key
+*.pem
+*token*

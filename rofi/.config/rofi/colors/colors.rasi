@@ -1,0 +1,15 @@
+/**
+ *
+ * Author : Jefferson(using matugen)
+ * 
+ * Colors
+ **/
+
+* {
+    background:          #0e1513;
+    background-alt:      #1a2120;
+    foreground:          #dde4e1;
+    selected:            #82d5c8;
+    active:              #b1ccc6;
+    urgent:              #ffb4ab;
+}

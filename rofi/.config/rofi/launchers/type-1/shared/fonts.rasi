@@ -1,0 +1,12 @@
+/**
+ *
+ * Author : Jef
+ * Github : @
+ * 
+ * Fonts
+ *
+ **/
+
+* {
+    font: "Iosevka Nerd Font Propo Medium 11";
+}

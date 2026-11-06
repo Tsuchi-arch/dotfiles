@@ -1,0 +1,14 @@
+/**
+ *
+ * Author : 
+ * Github : 
+ * Colors
+ *
+ * Available Colors Schemes
+ *
+ * matugen
+ **/
+
+/* Import color-scheme from `colors` directory */
+
+@import "~/.config/rofi/colors/colors.rasi"
